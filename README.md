@@ -45,6 +45,12 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=internet-explorer&logoColor=white)](https://yourportfolio.com)
 
 
+
+
+![Snake animation](https://github.com/Kalash930/Kalash930/blob/output/github-contribution-grid-snake.svg)
+
+
+
 <!--
 
 ## Hi there 👋
