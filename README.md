@@ -47,7 +47,7 @@
 
 
 
-![Snake animation](https://github.com/Kalash930/Kalash930/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
